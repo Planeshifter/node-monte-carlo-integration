@@ -1,0 +1,29 @@
+{
+  "name": "monte-carlo-integration",
+  "version": "0.8.0",
+  "description": "solves integrals using monte-carlo methods",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Planeshifter/node-monte-carlo-integration.git"
+  },
+  "keywords": [
+    "math",
+    "integration",
+    "numerical-methods",
+    "monte-carlo",
+    "simulation"
+  ],
+  "author": "Philipp Burckhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Planeshifter/node-monte-carlo-integration/issues"
+  },
+  "homepage": "https://github.com/Planeshifter/node-monte-carlo-integration"
+}
